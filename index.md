@@ -1,8 +1,3 @@
-
----
-title: "Home"
----
-
 # 👋 Hi — I’m JUDE ISONG
 
 I’m a trained **Teacher** (University of Ibadan) with a **Diploma in Computer Science** (University of Calabar), now working at the intersection of education, technology, and community development.
