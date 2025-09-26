@@ -1,3 +1,7 @@
+---
+title: "Contact"
+---
+
 # 📬 Contact
 
 I’m open to opportunities in **education, tech support, community management**, or collaborative projects.
