@@ -1,3 +1,7 @@
+---
+title: "Projects"
+---
+
 # 📁 Projects & Case Studies
 
 Each case study follows: Problem → My role → What I did → Outcome/artefacts.
