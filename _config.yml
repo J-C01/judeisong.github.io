@@ -1,1 +1,10 @@
+title: "Portfolio"
+description: "Professional Portfolio of JUDE ISONG"
+theme: minima
+
+# Navigation menu
+header_pages:
+  - index.md
+  - projects.md
+  - contact.md
 
