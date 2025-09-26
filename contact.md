@@ -4,4 +4,4 @@ I’m open to opportunities in **education, tech support, community management**
 
 - 📧 Email: judeisong01@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🐙 GitHub: https://github.com/judeisong.github.io
+- 🐙 GitHub: https://github.com/J-C01
